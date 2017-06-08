@@ -1,2 +1,10 @@
 Link for the Unity Package of the game :
 https://drive.google.com/file/d/0B60cKNxH3pBHREpEOWdRVnZNa2s/view?usp=sharing
+
+How to use:
+
+1: In Unity , go to file Build Settings , click on android and then click on switch platform.
+2: Go to Assets-> Import Package->Custom Package and select the file downloaded from the above link.
+3: Now Play the Game in Unity.
+
+Note: Apk file for the game will be uploaded as soon as possible. 
